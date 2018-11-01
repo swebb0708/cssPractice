@@ -1,0 +1,112 @@
+/*Q1*/
+.logo {
+    color: red;
+}
+/* Q2 */
+/* .menu-item {
+    color: green; 
+}*/
+    nav a{
+        color: green;
+    }
+ 
+/* Q3 */
+/* .menu-item:visited {
+    color:#444; 
+}*/
+    nav a:visited {
+        color:#444;
+    }
+
+/* Q4 */
+.card p {
+    color:white;
+}
+
+/* Q5 */
+.card button{
+    color:white;
+    background-color:lightgreen;
+}
+
+/* Q6 */
+article p::first-letter {
+    margin-left:30px;
+}
+
+
+/* Q7 */
+#blog{
+    background-color:#666;
+    color:#cff;
+}
+/* Q8 */
+#gallery figure:hover {
+    box-shadow: 10px 10px teal;
+}
+
+/* Q9 */
+#gallery figcaption {
+    padding: 8px;
+}
+
+/* Q10 */
+/* see html */
+
+/* Q11 */
+article {
+    margin-top: 40px;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Q12 */
+.article-title {
+    text-align: center;
+}
+
+/* Q13 */
+section h2 {
+    text-transform: uppercase;
+}
+
+/* Q14 */
+.form-input {
+    display: block;
+}
+
+/* Q15 */
+.form-input{
+    margin-bottom: 20px;
+}
+
+/* Q16 */
+.form-input {
+    padding: 8px;
+}
+
+/* Q17 */
+footer {
+    background-color: rgb(82, 82, 82);
+    color: #f1ad2ef8;
+
+}
+
+/* Q18 */
+.form-input:focus{
+    border-width: 4px
+}
+
+/* Q19 */
+section h2::before {
+    content:">";
+    margin-right: 4px;
+}
+
+/* Q20 */
+.form-input [type=radio]{
+    margin-left:20px;
+    margin-right:5px;
+}
+
